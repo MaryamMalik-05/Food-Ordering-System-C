@@ -1,7 +1,7 @@
 # Food-Ordering-System-C
 This project is a simple console-based Food Ordering System built in C++. It allows users to place food orders from a predefined hotel menu, calculates the total bill, and processes payment with change calculation.
 
-✨ Features
+#✨ Features
 
 Displays hotel name and a formatted food menu with prices.
 
@@ -17,7 +17,8 @@ Accepts payment input, verifies if sufficient, and returns change if applicable.
 
 Handles invalid inputs (e.g., wrong menu choice).
 
-🛠️ Tech Stack
+
+#🛠️ Tech Stack
 
 Language: C++
 
@@ -29,7 +30,8 @@ Libraries Used:
 
 <string> for item names
 
-📌 How It Works
+
+#📌 How It Works
 
 The program displays the hotel banner and menu.
 
@@ -45,7 +47,8 @@ If sufficient → payment is accepted and change is displayed.
 
 If insufficient → the system shows the remaining balance.
 
-🚀 Future Improvements
+
+#🚀 Future Improvements
 
 Add more menu items with categories (e.g., drinks, desserts).
 
